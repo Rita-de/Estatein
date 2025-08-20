@@ -8,7 +8,7 @@ const Minipp = () => {
           {/* Card 1 */}
           <div className="w-full max-w-xs bg-transparent border border-[#262626] rounded-xl p-4 flex flex-col justify-between 
            mx-auto hover:scale-105 transition-transform duration-300 shadow-sm shadow-[#262626]">
-            <span className="w-full h-40 sm:h-49 bg-[url(home/homebg.png)] bg-cover bg-center bg-no-repeat rounded-lg"></span>
+            <span className="w-full h-40 sm:h-49 bg-[url(/home/homebg.png)] bg-cover bg-center bg-no-repeat rounded-lg"></span>
             <h2 className="text-lg sm:text-xl font-semibold mt-1.5">
               Seaside Serenity Villa
             </h2>

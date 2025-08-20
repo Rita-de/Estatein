@@ -1,6 +1,5 @@
 import router from './router';
-import { RouterProvider } from 'react-router';
-import toast from 'react-hot-toast';
+import { RouterProvider } from 'react-router-dom';
 import { Suspense } from 'react';
 import LoadingPage from './Components/Service/LoadingPage';
 

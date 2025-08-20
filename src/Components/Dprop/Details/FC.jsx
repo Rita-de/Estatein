@@ -1,7 +1,7 @@
 
 import React, { useState } from "react";
 import Carousel from "./Carousel";
-import path from "path";
+
 
 // Dummy property data
 const properties =[
